@@ -56,3 +56,15 @@ This repository is a supplement to the article. To facilitate better access to t
 |[3D Reconstruction based on GAT from a Single Image](https://ieeexplore.ieee.org/abstract/document/9317527)|--|ICCWAMTIP|
 |[MeshingNet: A New Mesh Generation Method Based on Deep Learning](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)|--|ICCS 2020|
 |[POINTS2SURF Learning Implicit Surfaces from Point Clouds](https://link.springer.com/chapter/10.1007/978-3-030-58558-7_7)|[code](https://github.com/ErlerPhilipp/points2surf)|ECCV 2020|
+|[Learning Deformable Tetrahedral Meshes for 3D Reconstruction](https://proceedings.neurips.cc/paper/2020/hash/7137debd45ae4d0ab9aa953017286b20-Abstract.html)|[code](https://github.com/nv-tlabs/DefTet)|NeurIPS 2020|
+|[Back To Meshes: Optimal Simulation-ready Mesh Prototypes For Autoencoder-based 3D Car Point Clouds](https://ieeexplore.ieee.org/abstract/document/9308400)|--|SSCI 2020|
+|[PointTriNet: Learned Triangulation of 3D Point Sets](https://link.springer.com/chapter/10.1007/978-3-030-58592-1_45)|[code](https://github.com/nmwsharp/learned-triangulation/blob/e3768ed79ab0272ccc141da967dbe296a7a6a2a8/README.md)|ECCV2020|
+|[Surface Hof: Surface Reconstruction From A Single Image Using Higher Order Function Networks](https://ieeexplore.ieee.org/abstract/document/9190842)|--|2020 ICIP|
+|[REIN: Flexible Mesh Generation From Point Clouds](https://openaccess.thecvf.com/content_CVPRW_2020/html/w22/Daroya_REIN_Flexible_Mesh_Generation_From_Point_Clouds_CVPRW_2020_paper.html)|[code](https://github.com/rangeldaroya/rein/tree/7efd3995943b67de01662825b26699072ef29f0e)|CVPR 2020|
+|[Leveraging 2D Data to Learn Textured 3D Mesh Generation](https://openaccess.thecvf.com/content_CVPR_2020/html/Henderson_Leveraging_2D_Data_to_Learn_Textured_3D_Mesh_Generation_CVPR_2020_paper.html)|[code](https://github.com/pmh47/textured-mesh-gen)|CVPR 2020|
+|[SSRNet: Scalable 3D Surface Reconstruction Network](https://openaccess.thecvf.com/content_CVPR_2020/html/Mi_SSRNet_Scalable_3D_Surface_Reconstruction_Network_CVPR_2020_paper.html)|--|CVPR 2020|
+|[Mesh Variational Autoencoders With Edge Contraction Pooling](https://openaccess.thecvf.com/content_CVPRW_2020/html/w17/Yuan_Mesh_Variational_Autoencoders_With_Edge_Contraction_Pooling_CVPRW_2020_paper.html)|[code](https://github.com/IGLICT/MeshPooling)|CVPR 2020|
+|[Point2Mesh: a self-prior for deformable meshes](https://dl.acm.org/doi/abs/10.1145/3386569.3392415)|[code](https://github.com/ranahanocka/Point2Mesh/)|TOG 2020|
+|[Neural mesh flow: 3D manifold mesh generation via diffeomorphic flows](https://dl.acm.org/doi/abs/10.5555/3495724.3495872)|[code](https://github.com/KunalMGupta/NeuralMeshFlow)|NeurlPS 2020|
+|[Neural Unsigned Distance Fields for Implicit Function Learning](https://proceedings.neurips.cc/paper/2020/hash/f69e505b08403ad2298b9f262659929a-Abstract.html)|[code](https://github.com/jchibane/ndf/)|NIPS 2020|
+|[MeshSDF: Differentiable Iso-Surface Extraction](https://proceedings.neurips.cc/paper/2020/hash/fe40fb944ee700392ed51bfe84dd4e3d-Abstract.html)|[code](https://github.com/cvlab-epfl/MeshSDF)|NeurIPS 2020|
