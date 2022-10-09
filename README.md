@@ -52,3 +52,7 @@ This repository is a supplement to the article. To facilitate better access to t
 |[Local Implicit Grid Representations for 3D Scenes](https://openaccess.thecvf.com/content_CVPR_2020/html/Jiang_Local_Implicit_Grid_Representations_for_3D_Scenes_CVPR_2020_paper.html)|[code](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/local_implicit_grid)|CVPR 2020|
 |[Convolutional Occupancy Networks](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_31)|[code](https://github.com/autonomousvision/convolutional_occupancy_networks)|ECCV 2020|
 |[Interactive liquid splash modeling by user sketches](https://dl.acm.org/doi/abs/10.1145/3414685.3417832)|--|TOG 2020|
+|[Meshing Point Clouds with Predicted Intrinsic-Extrinsic Ratio Guidance](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_5)|[code](https://github.com/Colin97/Point2Mesh/tree/aa080b26692ad50ea9f35527764385545922aae1)|ECCV 2020|
+|[3D Reconstruction based on GAT from a Single Image](https://ieeexplore.ieee.org/abstract/document/9317527)|--|ICCWAMTIP|
+|[MeshingNet: A New Mesh Generation Method Based on Deep Learning](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)|--|ICCS 2020|
+|[POINTS2SURF Learning Implicit Surfaces from Point Clouds](https://link.springer.com/chapter/10.1007/978-3-030-58558-7_7)|[code](https://github.com/ErlerPhilipp/points2surf)|ECCV 2020|
