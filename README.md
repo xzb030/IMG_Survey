@@ -1,10 +1,10 @@
 # IMG_Survey_Supp
 
-##Outline
+## Outline
 
 This repository is a supplement to the article. To facilitate better access to the relevant literature, we give here links to the 110 articles mentioned in the article, as well as an additional evaluation of these articles.
 
-##Links to articles and code
+## Links to articles and code
 | Paper       | Code        | Source       |
 | ----------- | ----------- | -----------
 | [A self-organizing neural network approach for automatic mesh generation](https://ieeexplore.ieee.org/abstract/document/105028)      | --       | 1991      |
