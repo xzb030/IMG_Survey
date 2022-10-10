@@ -6,7 +6,7 @@ This repository is a supplement to the article. To facilitate better access to t
 
 ## Links to articles and code
 | Paper       | Code        | Source       |
-| ----------- | ----------- | -----------
+| ----------- | ----------- | -----------|
 | [A self-organizing neural network approach for automatic mesh generation](https://ieeexplore.ieee.org/abstract/document/105028)      | --       | 1991      |
 | [A density driven mesh generator guided by a neural network](https://ieeexplore.ieee.org/abstract/document/250785)   | --       | IEEE T MAGN 1993    |
 |[Automatic mesh generation by the let-it-grow neural network](https://ieeexplore.ieee.org/abstract/document/497496)|--| IEEE T MAGN 1996|
@@ -122,5 +122,6 @@ This repository is a supplement to the article. To facilitate better access to t
 ### Triangle Mesh
 
 ### Quadrilateral mesh 
-|[QuadWild]()|
-|[RenderPeople]()|[Axyz]()|
+Commonly used :[QuadWild]()
+
+Clothed body meshes with real texture: [RenderPeople]()|[Axyz]()|
