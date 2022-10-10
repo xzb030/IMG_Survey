@@ -120,8 +120,13 @@ This repository is a supplement to the article. To facilitate better access to t
 
 ## Common data set and links
 ### Triangle Mesh
-
+Commonly used: [Princeton ModelNet](); [ShapeNet](); [TOSCA](); [COSEG](); surface reconstruction benchmark of [Berge]() and [Williams](); [Thingi10K](); [D-FAUST](); [Famous](); [CAD dataset ABC](); 
+Dataset for single image 3D shape modeling: [Pix3d](); 
+Facial expression dataset: [COMA](); [MeIn3D]();  
+Human body shapes datasets: [MGN](); [BUFF]();
+Clothed body meshes with real texture: [RenderPeople](); [Axyz](); [Digit Wardrobe](); 
+Indoor scenes datasets: [ScanNet](); [Scenenet](); [Matterport3d](); [Synthetic Rooms]();
 ### Quadrilateral mesh 
-Commonly used :[QuadWild]()
+Commonly used :[QuadWild]();
 
-Clothed body meshes with real texture: [RenderPeople]()|[Axyz]()|
+Clothed body meshes with real texture: [RenderPeople]();[Axyz]();
