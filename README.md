@@ -48,7 +48,7 @@ This repository is a supplement to the article. To facilitate better access to t
 |[Mobile3DRecon: Real-time Monocular 3D Reconstruction on a Mobile Phone](https://ieeexplore.ieee.org/abstract/document/9201064)|--|TVCG 2020|
 |[SAL: Sign Agnostic Learning of Shapes From Raw Data](https://openaccess.thecvf.com/content_CVPR_2020/html/Atzmon_SAL_Sign_Agnostic_Learning_of_Shapes_From_Raw_Data_CVPR_2020_paper.html)|[code](https://github.com/matanatz/SAL)|CVPR 2020|
 |[Pixel2Mesh: 3D Mesh Model Generation via Image Guided Deformation](https://ieeexplore.ieee.org/abstract/document/9055070)|--|2020|
-|[Voxel2Mesh: 3D Mesh Model Generation from Volumetric Data](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_30)|[code](https://github.com/cvlab-epfl/voxel2mesh)|2020|
+|[Voxel2Mesh: 3D Mesh Model Generation from Volumetric Data](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_30)|[code](https://github.com/cvlab-epfl/voxel2mesh)|MICCAI 2020|
 |[X-ray2Shape: Reconstruction of 3D Liver Shape from a Single 2D Projection Image](https://ieeexplore.ieee.org/abstract/document/9176655)|--|EMBC 2020|
 |[3D Shape Reconstruction of Furniture Object from a Single Real Indoor Image](https://ieeexplore.ieee.org/abstract/document/9317479)|--|ICCWAMTIP 2020|
 |[Meshlet Priors for 3D Mesh Reconstruction](https://openaccess.thecvf.com/content_CVPR_2020/html/Badki_Meshlet_Priors_for_3D_Mesh_Reconstruction_CVPR_2020_paper.html)|[code](https://github.com/NVlabs/meshlets/blob/5f918c18b4bc296dfa1f5428fa5fc66c3f4980a3/README.md)|CVPR 2020|
