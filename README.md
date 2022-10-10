@@ -47,7 +47,7 @@ This repository is a supplement to the article. To facilitate better access to t
 |[BCNet: Learning Body and Cloth Shape from a Single Image](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_2)|[code](https://github.com/jby1993/BCNet/tree/0bf7e0cb9a2f16989596ef8406582eb7d8fbfae8)|ECCV 2020|
 |[Mobile3DRecon: Real-time Monocular 3D Reconstruction on a Mobile Phone](https://ieeexplore.ieee.org/abstract/document/9201064)|--|TVCG 2020|
 |[SAL: Sign Agnostic Learning of Shapes From Raw Data](https://openaccess.thecvf.com/content_CVPR_2020/html/Atzmon_SAL_Sign_Agnostic_Learning_of_Shapes_From_Raw_Data_CVPR_2020_paper.html)|[code](https://github.com/matanatz/SAL)|CVPR 2020|
-|[Pixel2Mesh: 3D Mesh Model Generation via Image Guided Deformation](https://ieeexplore.ieee.org/abstract/document/9055070)|--|2020|
+|[Pixel2Mesh: 3D Mesh Model Generation via Image Guided Deformation](https://ieeexplore.ieee.org/abstract/document/9055070)|--|TAMPI 2020|
 |[Voxel2Mesh: 3D Mesh Model Generation from Volumetric Data](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_30)|[code](https://github.com/cvlab-epfl/voxel2mesh)|MICCAI 2020|
 |[X-ray2Shape: Reconstruction of 3D Liver Shape from a Single 2D Projection Image](https://ieeexplore.ieee.org/abstract/document/9176655)|--|EMBC 2020|
 |[3D Shape Reconstruction of Furniture Object from a Single Real Indoor Image](https://ieeexplore.ieee.org/abstract/document/9317479)|--|ICCWAMTIP 2020|
@@ -56,12 +56,12 @@ This repository is a supplement to the article. To facilitate better access to t
 |[Convolutional Occupancy Networks](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_31)|[code](https://github.com/autonomousvision/convolutional_occupancy_networks)|ECCV 2020|
 |[Interactive liquid splash modeling by user sketches](https://dl.acm.org/doi/abs/10.1145/3414685.3417832)|--|TOG 2020|
 |[Meshing Point Clouds with Predicted Intrinsic-Extrinsic Ratio Guidance](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_5)|[code](https://github.com/Colin97/Point2Mesh/tree/aa080b26692ad50ea9f35527764385545922aae1)|ECCV 2020|
-|[3D Reconstruction based on GAT from a Single Image](https://ieeexplore.ieee.org/abstract/document/9317527)|--|ICCWAMTIP|
+|[3D Reconstruction based on GAT from a Single Image](https://ieeexplore.ieee.org/abstract/document/9317527)|--|ICCWAMTIP 2020|
 |[MeshingNet: A New Mesh Generation Method Based on Deep Learning](https://link.springer.com/chapter/10.1007/978-3-030-50420-5_14)|--|ICCS 2020|
 |[POINTS2SURF Learning Implicit Surfaces from Point Clouds](https://link.springer.com/chapter/10.1007/978-3-030-58558-7_7)|[code](https://github.com/ErlerPhilipp/points2surf)|ECCV 2020|
 |[Learning Deformable Tetrahedral Meshes for 3D Reconstruction](https://proceedings.neurips.cc/paper/2020/hash/7137debd45ae4d0ab9aa953017286b20-Abstract.html)|[code](https://github.com/nv-tlabs/DefTet)|NeurIPS 2020|
 |[Back To Meshes: Optimal Simulation-ready Mesh Prototypes For Autoencoder-based 3D Car Point Clouds](https://ieeexplore.ieee.org/abstract/document/9308400)|--|SSCI 2020|
-|[PointTriNet: Learned Triangulation of 3D Point Sets](https://link.springer.com/chapter/10.1007/978-3-030-58592-1_45)|[code](https://github.com/nmwsharp/learned-triangulation/blob/e3768ed79ab0272ccc141da967dbe296a7a6a2a8/README.md)|ECCV2020|
+|[PointTriNet: Learned Triangulation of 3D Point Sets](https://link.springer.com/chapter/10.1007/978-3-030-58592-1_45)|[code](https://github.com/nmwsharp/learned-triangulation/blob/e3768ed79ab0272ccc141da967dbe296a7a6a2a8/README.md)|ECCV 2020|
 |[Surface Hof: Surface Reconstruction From A Single Image Using Higher Order Function Networks](https://ieeexplore.ieee.org/abstract/document/9190842)|--|2020 ICIP|
 |[REIN: Flexible Mesh Generation From Point Clouds](https://openaccess.thecvf.com/content_CVPRW_2020/html/w22/Daroya_REIN_Flexible_Mesh_Generation_From_Point_Clouds_CVPRW_2020_paper.html)|[code](https://github.com/rangeldaroya/rein/tree/7efd3995943b67de01662825b26699072ef29f0e)|CVPR 2020|
 |[Leveraging 2D Data to Learn Textured 3D Mesh Generation](https://openaccess.thecvf.com/content_CVPR_2020/html/Henderson_Leveraging_2D_Data_to_Learn_Textured_3D_Mesh_Generation_CVPR_2020_paper.html)|[code](https://github.com/pmh47/textured-mesh-gen)|CVPR 2020|
