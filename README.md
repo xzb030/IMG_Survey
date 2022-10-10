@@ -82,7 +82,7 @@ This repository is a supplement to the article. To facilitate better access to t
 |[DeepDT: Learning Geometry From Delaunay Triangulation for Surface Reconstruction](https://ojs.aaai.org/index.php/AAAI/article/view/16327)|[code](https://github.com/wenbingtao/DeepDT)|AAAI 2021|
 |[Iso-Points: Optimizing Neural Implicit Surfaces With Hybrid Representations](https://openaccess.thecvf.com/content/CVPR2021/html/Yifan_Iso-Points_Optimizing_Neural_Implicit_Surfaces_With_Hybrid_Representations_CVPR_2021_paper.html)|[code](https://github.com/yifita/iso-points)|CVPR 2021|
 |[Differentiable surface triangulation](https://dl.acm.org/doi/abs/10.1145/3478513.3480554)|[code](https://github.com/mrakotosaon/diff-surface-triangulation)|TOG 2021|
-|[Shape As Points: A Differentiable Poisson Solver](https://proceedings.neurips.cc/paper/2021/hash/6cd9313ed34ef58bad3fdd504355e7Computer Graphics Forum2c-Abstract.html)|NerualPS 2021|
+|[Shape As Points: A Differentiable Poisson Solver](https://proceedings.neurips.cc/paper/2021/hash/6cd9313ed34ef58bad3fdd504355e7Computer Graphics Forum2c-Abstract.html)|[code](https://github.com/autonomousvision/shape_as_points)|NerualPS 2021|
 |[Deep Parametric Surfaces for 3D Outfit Reconstruction from Single View Image](https://ieeexplore.ieee.org/abstract/document/9667017)|--|FG 2021|
 |[NeeDrop: Self-supervised Shape Representation from Sparse Point Clouds using Needle Dropping](https://ieeexplore.ieee.org/abstract/document/9665876)|[code](https://github.com/valeoai/NeeDrop)|3DV 2021|
 |[Learning and Meshing from Deep Implicit Surface Networks Using an Efficient Implementation of Analytic Marching](https://ieeexplore.ieee.org/abstract/document/9650726)|[code](https://github.com/Karbo123/AnalyticMesh)|TPAMI 2021|
