@@ -1,8 +1,11 @@
 # IMG_Survey_Supp
+
+##Outline
+
 This repository is a supplement to the article. To facilitate better access to the relevant literature, we give here links to the 110 articles mentioned in the article, as well as an additional evaluation of these articles.
 
-
-| Paper       | Code        | Date        |
+##Links to articles and code
+| Paper       | Code        | Source       |
 | ----------- | ----------- | -----------
 | [A self-organizing neural network approach for automatic mesh generation](https://ieeexplore.ieee.org/abstract/document/105028)      | --       | 1991      |
 | [A density driven mesh generator guided by a neural network](https://ieeexplore.ieee.org/abstract/document/250785)   | --       | IEEE T MAGN 1993    |
@@ -114,3 +117,5 @@ This repository is a supplement to the article. To facilitate better access to t
 |[NICE-SLAM: Neural Implicit Scalable Encoding for SLAM](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_NICE-SLAM_Neural_Implicit_Scalable_Encoding_for_SLAM_CVPR_2022_paper.html)|[code](https://github.com/cvg/nice-slam)|CVPR 2022|
 |[Neural RGB-D Surface Reconstruction](https://openaccess.thecvf.com/content/CVPR2022/html/Azinovic_Neural_RGB-D_Surface_Reconstruction_CVPR_2022_paper.html)|[code](https://github.com/dazinovic/neural-rgbd-surface-reconstruction)|CVPR 2022|
 |[POCO: Point Convolution for Surface Reconstruction](https://openaccess.thecvf.com/content/CVPR2022/html/Boulch_POCO_Point_Convolution_for_Surface_Reconstruction_CVPR_2022_paper.html)|--|CVPR 2022|
+
+## Common data set and links
