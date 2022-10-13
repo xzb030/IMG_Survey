@@ -1,6 +1,6 @@
 # IMG_Survey
 
-This repository complements this article. To facilitate better access to relevant literature, we provide links to the 110 articles mentioned in the article, as well as relevant codes for these articles. In addition, we have provided links to commonly used data sets.
+This repository complements this article. To facilitate better access to the relevant literature, we provide links to the 110 articles mentioned in the article by technical categories, as well as the relevant codes for these articles. In addition, we also provide links to commonly used datasets.
 
 ## Outline
 - [IMG_Survey_Supp](#img_survey_supp)
