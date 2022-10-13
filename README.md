@@ -9,7 +9,8 @@ This repository complements this article. To facilitate better access to relevan
     - [Triangle Mesh](#triangle-mesh)
     - [Quadrilateral mesh](#quadrilateral-mesh)
 
-## 
+## The main classification criteria
+
 
 
 ## Links to articles and code
