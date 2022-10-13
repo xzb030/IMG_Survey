@@ -5,6 +5,12 @@ This repository complements this article. To facilitate better access to the rel
 ## Outline
 - [IMG_Survey_Supp](#img_survey_supp)
   - [Links to articles and code](#links-to-articles-and-code)
+    - [Deformation-based](#Deformation-based)
+    - [Classification-based](#Classification-based)
+    - [Isosurface-based](#Isosurface-based)
+    - [Delaunay-triangulation-based](#Delaunay-triangulation-based)
+    - [Parametrization-based](#Parametrization-based)
+    - [Advancing-front-based](#Advancing-front-based)
   - [Common data set and links](#common-data-set-and-links)
     - [Triangle Mesh](#triangle-mesh)
     - [Quadrilateral mesh](#quadrilateral-mesh)
