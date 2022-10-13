@@ -13,7 +13,13 @@ This repository complements this article. To facilitate better access to relevan
 
 ![text](./Img/Taxonomies.png)
 
+##  Annual distribution of articles of 6 technical types
+
+![text](./Img/years.png)
+
 ## Links to articles and code
+
+### 
 | Paper       | Code        | Source       |
 | ----------- | ----------- | -----------|
 | [A self-organizing neural network approach for automatic mesh generation](https://ieeexplore.ieee.org/abstract/document/105028)      | --       | IEEE Transactions on Magnetics 1991      |
