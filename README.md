@@ -11,7 +11,7 @@ This repository complements this article. To facilitate better access to relevan
 
 ## The main classification criteria
 
-
+![text](./Img/Taxonomies.png)
 
 ## Links to articles and code
 | Paper       | Code        | Source       |
