@@ -79,7 +79,7 @@ This repository complements this article. To facilitate better access to relevan
 
 ### Isosurface-based
 | Paper       | Code        | Source      
-| ----------- | ----------- | -----------||
+| ----------- | ----------- | -----------|
 |[LS-RBF network based 3D surface reconstruction method](https://ieeexplore.ieee.org/abstract/document/5195232)|--|CCDC 2009|
 |[3D Shape Reconstruction from Sketches via Multi-view Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/8374559)|[code](https://github.com/kitoriaaa/SketchModelingServer)|3DV 2017|
 |[Robust flow-guided neural prediction for sketch-based freeform surface modeling](https://dl.acm.org/doi/abs/10.1145/3272127.3275051)|[code](https://github.com/Enigma-li/SketchCNN)|TOG 2018|
