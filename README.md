@@ -207,14 +207,14 @@ Facial expression dataset: [COMA](); [MeIn3D]();
 
 Human body shapes datasets: [MGN](); [BUFF]();
 
-Clothed body meshes with real texture: [RenderPeople](); [Axyz](); [Digit Wardrobe](); 
+Clothed body meshes with real texture: [RenderPeople](); [Axyz](https://secure.axyz-design.com/); [Digit Wardrobe](); 
 
 Indoor scenes datasets: [ScanNet](); [Scenenet](); [Matterport3d](); [Synthetic Rooms]();
 
 ### Quadrilateral mesh 
 Commonly used :[QuadWild]();
 
-Clothed body meshes with real texture: [RenderPeople]();[Axyz]();
+Clothed body meshes with real texture: [RenderPeople](https://renderpeople.com/free-3d-people/);[Axyz](https://secure.axyz-design.com/);
 
 
 ## Citation 
