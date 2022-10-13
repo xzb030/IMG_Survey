@@ -4,6 +4,7 @@ This repository complements this article. To facilitate better access to the rel
 
 ## Outline
 - [IMG_Survey_Supp](#img_survey_supp)
+  - [Abstract](#Abstract)
   - [The main classification criteria](#The_main_classification_criteria)
   - [Annual distribution of articles of 6 technical types](#Annual_distribution_of_articles_of_6_technical_types)
   - [Links to articles and code](#links-to-articles-and-code)
@@ -16,6 +17,8 @@ This repository complements this article. To facilitate better access to the rel
   - [Common data set and links](#common-data-set-and-links)
     - [Triangle Mesh](#triangle-mesh)
     - [Quadrilateral mesh](#quadrilateral-mesh)
+## Abstract
+Intelligent mesh generation (IMG) is a relatively new field that refers to a kind of method to generate mesh by machine learning. IMG has greatly expanded the generalizability and practicality of mesh generation techniques, bringing many breakthroughs and potential possibilities for mesh generation. Within its short life span, we have seen tremendous advances in this field. However, there is a lack of surveys focusing on IMG methods covering recent works. In this article, we present an overview of the existing IMG methods systematically. Focusing on 110 preliminary studies describing different IMG methods, we conducted a comprehensive analysis and evaluation from the core technique and application scope of the algorithm, agent learning goals, data types, targeting challenges, advantages and limitations. With the aim of literature collection and classification based on content extraction, we provide three different taxonomies from three views of key technique, output mesh unit element, and applicable input data types. Finally, we highlight some promising future research directions and challenges in IMG.
 
 ## The main classification criteria
 
