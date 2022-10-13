@@ -4,8 +4,8 @@ This repository complements this article. To facilitate better access to the rel
 
 ## Outline
 - [IMG_Survey_Supp](#img_survey_supp)
-  - [The main classification criteria](#The main classification criteria)
-  - [Annual distribution of articles of 6 technical types](#Annual distribution of articles of 6 technical types)
+  - [The main classification criteria](#The_main_classification_criteria)
+  - [Annual distribution of articles of 6 technical types](#Annual_distribution_of_articles_of_6_technical_types)
   - [Links to articles and code](#links-to-articles-and-code)
     - [Deformation-based](#Deformation-based)
     - [Classification-based](#Classification-based)
