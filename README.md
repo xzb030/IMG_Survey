@@ -202,7 +202,7 @@ Intelligent mesh generation (IMG) is a relatively new field that refers to a kin
 
 ## Common data set and links
 ### Triangle Mesh
-Commonly used: [Princeton ModelNet](http://modelnet.cs.princeton.edu); [ShapeNet](); [TOSCA](); [COSEG](); surface reconstruction benchmark of [Berge]() and [Williams](); [Thingi10K](); [D-FAUST](); [Famous](); [CAD dataset ABC](); 
+Commonly used: [Princeton ModelNet](http://modelnet.cs.princeton.edu); [ShapeNet](https://shapenet.org/); [TOSCA](); [COSEG](); surface reconstruction benchmark of [Berge]() and [Williams](); [Thingi10K](); [D-FAUST](); [Famous](); [CAD dataset ABC](); 
 
 Dataset for single image 3D shape modeling: [Pix3d]();
 
