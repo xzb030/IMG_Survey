@@ -1,4 +1,4 @@
-# IMG_Survey_Supp
+# IMG_Survey
 
 This repository complements this article. To facilitate better access to relevant literature, we provide links to the 110 articles mentioned in the article, as well as relevant codes for these articles. In addition, we have provided links to commonly used data sets.
 
@@ -8,6 +8,9 @@ This repository complements this article. To facilitate better access to relevan
   - [Common data set and links](#common-data-set-and-links)
     - [Triangle Mesh](#triangle-mesh)
     - [Quadrilateral mesh](#quadrilateral-mesh)
+
+## 
+
 
 ## Links to articles and code
 | Paper       | Code        | Source       |
@@ -141,3 +144,7 @@ Indoor scenes datasets: [ScanNet](); [Scenenet](); [Matterport3d](); [Synthetic 
 Commonly used :[QuadWild]();
 
 Clothed body meshes with real texture: [RenderPeople]();[Axyz]();
+
+
+## Citation 
+If our survey helps in your research, please consider citing the following paper:
