@@ -202,17 +202,17 @@ Intelligent mesh generation (IMG) is a relatively new field that refers to a kin
 
 ## Common data set and links
 ### Triangle Mesh
-Commonly used: [Princeton ModelNet](http://modelnet.cs.princeton.edu); [ShapeNet](https://shapenet.org/); [TOSCA](); [COSEG](); surface reconstruction benchmark of [Berge]() and [Williams](); [Thingi10K](); [D-FAUST](); [Famous](); [CAD dataset ABC](); 
+Commonly used: [Princeton ModelNet](http://modelnet.cs.princeton.edu); [ShapeNet](https://shapenet.org/); [TOSCA](http://tosca.cs.technion.ac.il); [COSEG](http://web.siat.ac.cn/~yunhai/ssl/ssd.htm); surface reconstruction benchmark of [Berge](https://github.com/fwilliams/surface-reconstruction-benchmark) and [Williams](https://drive.google.com/file/d/17Elfc1TTRzIQJhaNu5m7SckBH_mdjYSe/view); [Thingi10K](https://ten-thousand-models.appspot.com/); [D-FAUST](https://dfaust.is.tue.mpg.de); [Famous](https://github.com/ErlerPhilipp/points2surf); [CAD dataset ABC](https://deep-geometry.github.io/abc-dataset); 
 
-Dataset for single image 3D shape modeling: [Pix3d]();
+Dataset for single image 3D shape modeling: [Pix3d](https://github.com/xingyuansun/pix3d);
 
-Facial expression dataset: [COMA](); [MeIn3D]();
+Facial expression dataset: [COMA](http://coma.is.tue.mpg.de/); [MeIn3D](https://github.com/menpo/lsfm);
 
-Human body shapes datasets: [MGN](); [BUFF]();
+Human body shapes datasets: [MGN](https://github.com/bharat-b7/MultiGarmentNetwork); [BUFF]();
 
-Clothed body meshes with real texture: [RenderPeople](); [Axyz](https://secure.axyz-design.com/); [Digit Wardrobe](); 
+Clothed body meshes with real texture: [RenderPeople](https://renderpeople.com/free-3d-people); [Axyz](https://secure.axyz-design.com/); [Digit Wardrobe](); 
 
-Indoor scenes datasets: [ScanNet](); [Scenenet](); [Matterport3d](); [Synthetic Rooms]();
+Indoor scenes datasets: [ScanNet](https://github.com/ScanNet/ScanNet); [Scenenet](); [Matterport3d](https://github.com/niessner/Matterport); [Synthetic Rooms](https://github.com/autonomousvision/convolutional_occupancy_networks);
 
 ### Quadrilateral mesh 
 Commonly used :[QuadWild](https://www.quadmesh.cloud/);
