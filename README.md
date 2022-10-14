@@ -210,7 +210,7 @@ Facial expression dataset: [COMA](http://coma.is.tue.mpg.de/); [MeIn3D](https://
 
 Human body shapes datasets: [MGN](https://github.com/bharat-b7/MultiGarmentNetwork); [BUFF]();
 
-Clothed body meshes with real texture: [RenderPeople](https://renderpeople.com/free-3d-people); [Axyz](https://secure.axyz-design.com/); [Digit Wardrobe](); 
+Clothed body meshes with real texture: [RenderPeople](https://renderpeople.com/free-3d-people); [Axyz](https://secure.axyz-design.com/); [Digit Wardrobe](https://github.com/bharat-b7/MultiGarmentNetwork); 
 
 Indoor scenes datasets: [ScanNet](https://github.com/ScanNet/ScanNet); [Scenenet](); [Matterport3d](https://github.com/niessner/Matterport); [Synthetic Rooms](https://github.com/autonomousvision/convolutional_occupancy_networks);
 
