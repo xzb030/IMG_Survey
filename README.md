@@ -1,4 +1,5 @@
-# What’s the Situation with Intelligent Mesh Generation: A Survey and Perspectives
+# <p align="center"> What’s the Situation with Intelligent Mesh Generation: A Survey and Perspectives</p>
+<p align="center"> [XXX]()  [XXX]()  [XXX]()  [XXX]()  [XXX]() </p>
 
 This repository complements this article. To facilitate better access to the relevant literature, we provide links to the 110 articles mentioned in the article by technical categories, as well as the relevant codes for these articles. In addition, we also provide links to commonly used datasets.
 
