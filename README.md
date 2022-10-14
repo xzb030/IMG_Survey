@@ -1,9 +1,9 @@
-# IMG_Survey
+<p align="center"># What’s the Situation with Intelligent Mesh Generation: A Survey and Perspectives</p>
 
 This repository complements this article. To facilitate better access to the relevant literature, we provide links to the 110 articles mentioned in the article by technical categories, as well as the relevant codes for these articles. In addition, we also provide links to commonly used datasets.
 
 ## Outline
-- [IMG_Survey_Supp](#img_survey_supp)
+- [IMG_Survey](#What’s_the_Situation_with_Intelligent_Mesh_Generation:_A_Survey_and_Perspectives)
   - [Abstract](#Abstract)
   - [The main classification criteria](#The_main_classification_criteria)
   - [Annual distribution of articles of 6 technical types](#Annual_distribution_of_articles_of_6_technical_types)
