@@ -1,5 +1,7 @@
 # <p align="center"> What’s the Situation with Intelligent Mesh Generation: A Survey and Perspectives</p>
-<p align="center">  [XXX]()  |[XXX]()|  [XXX]()|  [XXX]() | [XXX]() </p>
+<div align="center">  
+  <a href="url"  target="opentype">XXX</a> |<a href="url"  target="opentype">XXX</a>|<a href="url"  target="opentype">XXX</a>|<a href="url"  target="opentype">XXX</a> | <a href="url"  target="opentype">XXX</a>() 
+<div>
 
 | [paper]()|
 
