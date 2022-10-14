@@ -23,7 +23,7 @@ Intelligent mesh generation (IMG) is a relatively new field that refers to a kin
 ## The main classification criteria
 
 <p align="center">
-  <img src=./Img/Taxonomies.png width="180" height="105">
+  <img src=./Img/Taxonomies.png >
 </p>
 
 
