@@ -219,7 +219,7 @@ Dataset for single image 3D shape modeling: [Pix3d](https://github.com/xingyuans
 
 Facial expression dataset: [COMA](http://coma.is.tue.mpg.de/); [MeIn3D](https://github.com/menpo/lsfm);
 
-Human body shapes datasets: [MGN](https://github.com/bharat-b7/MultiGarmentNetwork); [BUFF]();
+Human body shapes datasets: [MGN](https://github.com/bharat-b7/MultiGarmentNetwork); [MultiHuman](http://liuyebin.com/dmc/dmc.html);
 
 Clothed body meshes with real texture: [RenderPeople](https://renderpeople.com/free-3d-people); [Axyz](https://secure.axyz-design.com/); [Digit Wardrobe](https://github.com/bharat-b7/MultiGarmentNetwork); 
 
