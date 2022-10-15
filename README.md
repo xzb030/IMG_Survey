@@ -13,6 +13,7 @@ This repository complements this article. To facilitate better access to the rel
 - [IMG_Survey](#What’s_the_Situation_with_Intelligent_Mesh_Generation:_A_Survey_and_Perspectives)
   - [Abstract](#Abstract)
   - [The main classification criteria](#The_main_classification_criteria)
+  - [Timeline of main articles](#Timeline_of_main_articles)
   - [Annual distribution of articles of 6 technical types](#Annual_distribution_of_articles_of_6_technical_types)
   - [Links to articles and code](#links-to-articles-and-code)
     - [Deformation-based](#Deformation-based)
@@ -38,6 +39,9 @@ Intelligent mesh generation (IMG) is a relatively new field that refers to a kin
 ##  Annual distribution of articles of 6 technical types
 
 ![text](./Img/years.png)
+
+## Timeline of main articles
+![text](./Img/timer.png)
 
 ## Links to articles and code
 
