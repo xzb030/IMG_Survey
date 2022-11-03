@@ -1,10 +1,10 @@
 # <p align="center"> What’s the Situation with Intelligent Mesh Generation: A Survey and Perspectives</p>
 <div align="center">  
-  <a href=""  target="opentype">Zezeng Li</a> |<a href="https://github.com/xzb030/"  target="opentype">Zebin Xu</a>|<a href="url"  target="opentype">Ying Li</a>|<a   target="opentype">Xianfeng Gu</a> |<a target="opentype">Na Lei</a>
+  <a href=""  target="opentype">Zezeng Li</a> |<a href="https://github.com/xzb030/"  target="opentype">Zebin Xu</a>|<a target="opentype">Ying Li</a>|<a   target="opentype">Xianfeng Gu</a> |<a target="opentype">Na Lei</a>
 </div>
 
 
-This repository complements this article. To facilitate better access to the relevant literature, we provide links to the 110 articles mentioned in the article by technical categories, as well as the relevant codes for these articles. In addition, we also provide links to commonly used datasets.
+This repository complements [What’s the Situation with Intelligent Mesh Generation: A Survey and Perspectives](). To facilitate better access to the relevant literature, we provide links to the 110 articles mentioned in the article by technical categories, as well as the relevant codes for these articles. In addition, we also provide links to commonly used datasets.
 
 ## Outline
 - [IMG_Survey](#What’s_the_Situation_with_Intelligent_Mesh_Generation:_A_Survey_and_Perspectives)
