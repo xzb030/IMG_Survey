@@ -1,6 +1,6 @@
 # <p align="center"> What’s the Situation with Intelligent Mesh Generation: A Survey and Perspectives</p>
 <div align="center">  
-  <a href="url"  target="opentype">XXX</a> |<a href="url"  target="opentype">XXX</a>|<a href="url"  target="opentype">XXX</a>|<a href="url"  target="opentype">XXX</a>
+  <a href=""  target="opentype">Zezeng Li</a> |<a href="https://github.com/xzb030/"  target="opentype">Zebin Xu</a>|<a href="url"  target="opentype">Ying Li</a>|<a href="url"  target="opentype">Xianfeng Gu</a> |<a href=""  target="opentype">Na Lei</a>
 </div>
 
 <div align="center">  
