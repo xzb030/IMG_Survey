@@ -1,6 +1,6 @@
 # <p align="center"> What’s the Situation with Intelligent Mesh Generation: A Survey and Perspectives</p>
 <div align="center">  
-  <a href=""  target="opentype">Zezeng Li</a> |<a href="https://github.com/xzb030/"  target="opentype">Zebin Xu</a>|<a target="opentype">Ying Li</a>|<a   target="opentype">Xianfeng Gu</a> |<a target="opentype">Na Lei</a>
+  <a href="https://github.com/cognaclee"  target="opentype">Zezeng Li</a> |<a href="https://github.com/xzb030/"  target="opentype">Zebin Xu</a>|<a target="opentype">Ying Li</a>|<a   target="opentype">Xianfeng Gu</a> |<a target="opentype">Na Lei</a>
 </div>
 
 
