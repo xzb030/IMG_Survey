@@ -4,7 +4,7 @@
 </div>
 
 
-This repository complements "What's the Situation with Intelligent Mesh Generation: A Survey and Perspectives"[[arxiv](https://arxiv.org/abs/2211.06009)]. To facilitate better access to the relevant literature, we provide links to the 110 articles mentioned in the article by technical categories, as well as the relevant codes for these articles. In addition, we also provide links to commonly used datasets.
+This repository complements "What's the Situation with Intelligent Mesh Generation: A Survey and Perspectives"\[ [arxiv](https://arxiv.org/abs/2211.06009) \]. To facilitate better access to the relevant literature, we provide links to the 110 articles mentioned in the article by technical categories, as well as the relevant codes for these articles. In addition, we also provide links to commonly used datasets.
 
 ## Outline
 - [IMG_Survey](#What’s_the_Situation_with_Intelligent_Mesh_Generation:_A_Survey_and_Perspectives)
