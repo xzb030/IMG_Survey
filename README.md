@@ -235,19 +235,11 @@ Clothed body meshes with real texture: [RenderPeople](https://renderpeople.com/f
 ```
 @misc{https://doi.org/10.48550/arxiv.2211.06009,
   doi = {10.48550/ARXIV.2211.06009},
-  
   url = {https://arxiv.org/abs/2211.06009},
-  
   author = {Li, Zezeng and Xu, Zebin and Li, Ying and Gu, Xianfeng and Lei, Na},
-  
   keywords = {Artificial Intelligence (cs.AI), Computational Geometry (cs.CG), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
   title = {What's the Situation with Intelligent Mesh Generation: A Survey and Perspectives},
-  
   publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {arXiv.org perpetual, non-exclusive license}
+  year = {2022}
 }
 ```
