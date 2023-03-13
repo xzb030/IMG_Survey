@@ -45,7 +45,7 @@ Intelligent mesh generation (IMG) is a relatively new field that refers to a kin
 ### Deformation-based
 | Paper       |Code        | Source       |connection map|
 | ----------- | ----------- | -----------|-----------|
-| [A self-organizing neural network approach for automatic mesh generation](https://ieeexplore.ieee.org/abstract/document/105028)|--      | --       | IEEE Transactions on Magnetics 1991      |
+| [A self-organizing neural network approach for automatic mesh generation](https://ieeexplore.ieee.org/abstract/document/105028)|--      | IEEE Transactions on Magnetics 1991      |
 |[DeepGarment : 3D Garment Shape Estimation from a Single Image](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13125)|--|Computer Graphics Forum 2017|
 |[DeepSketch2Face: a deep learning based sketching system for 3D face and caricature modeling](https://dl.acm.org/doi/abs/10.1145/3072959.3073629)|[code](https://github.com/changgyhub/deepsketch2face)|TOG 2017|
 |[Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images](https://openaccess.thecvf.com/content_ECCV_2018/html/Nanyang_Wang_Pixel2Mesh_Generating_3D_ECCV_2018_paper.html)|[code](https://github.com/nywang16/Pixel2Mesh)|ECCV 2018|
