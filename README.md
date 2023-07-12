@@ -238,8 +238,6 @@ Clothed body meshes with real texture: [RenderPeople](https://renderpeople.com/f
   journal={IEEE Transactions on Visualization and Computer Graphics}, 
   title={What's the Situation With Intelligent Mesh Generation: A Survey and Perspectives}, 
   year={2023},
-  volume={},
-  number={},
   pages={1-20},
   doi={10.1109/TVCG.2023.3281781}}
 ```
